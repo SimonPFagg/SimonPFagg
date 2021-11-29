@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SimonPFagg
+- 👀 I’m interested in Gaming, Music and Socialising.
+- 🌱 I’m currently learning React.js!
+- 💞️ I’m hoping to kickstart my developer career and be hired as a Junior Front End Developer.
+- 📫 How to reach me - s_p_f@btinternet.com
