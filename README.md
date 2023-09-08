@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SimonPFagg
 - 👀 I’m interested in Gaming, Music and Socialising.
-- 🌱 I’m currently learning React.js!
-- 💞️ I’m currently an Email Developer who's looking to move into a position as a Front End Developer.
+- 🌱 I’m currently learning Vue.js 3!
+- 💞️ I’m currently an HTML Developer who's looking to upskill in Full Stack Development.
 - 📫 How to reach me - s_p_f@btinternet.com
