@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SimonPFagg
 - 👀 I’m interested in Gaming, Music and Socialising.
-- 🌱 I’m currently learning Vue.js 3!
-- 💞️ I’m currently an HTML Developer who's looking to upskill in Full Stack Development.
+- 🌱 I’m currently learning Nuxt.js 3!
+- 💞️ I’m currently a Full Stack Developer.
 - 📫 How to reach me - s_p_f@btinternet.com
